@@ -1,3 +1,5 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 # Laravel Job Board
 
 A job board web application built with **Laravel 13** and **Blade**.
@@ -11,18 +13,6 @@ This is a learning project — I'm building it step by step while learning Larav
 - **Views:** Blade templates
 - **Database:** SQLite (default) — MySQL supported via `.env`
 - **Assets:** Vite
-
-## Features
-
-- [x] Project setup
-- [x] Jobs listing page (route → controller → view)
-- [ ] Jobs database table & Eloquent model
-- [ ] Single job page
-- [ ] Create / edit / delete jobs
-- [ ] Form validation
-- [ ] User authentication
-- [ ] Employers & job ownership
-- [ ] Pagination & search
 
 ## Getting Started
 
